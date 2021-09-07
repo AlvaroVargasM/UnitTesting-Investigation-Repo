@@ -1,0 +1,10 @@
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\bin\Debug\net4.7.2\UTestsInvestigation.exe.config
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\bin\Debug\net4.7.2\UTestsInvestigation.exe
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\bin\Debug\net4.7.2\UTestsInvestigation.pdb
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\obj\Debug\net4.7.2\UTestsInvestigation.csproj.AssemblyReference.cache
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\obj\Debug\net4.7.2\UTestsInvestigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\obj\Debug\net4.7.2\UTestsInvestigation.AssemblyInfoInputs.cache
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\obj\Debug\net4.7.2\UTestsInvestigation.AssemblyInfo.cs
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\obj\Debug\net4.7.2\UTestsInvestigation.csproj.CoreCompileInputs.cache
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\obj\Debug\net4.7.2\UTestsInvestigation.exe
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\obj\Debug\net4.7.2\UTestsInvestigation.pdb

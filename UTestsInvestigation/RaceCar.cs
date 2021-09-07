@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UTestsInvestigation
 {
-    class RaceCar
+    public class RaceCar
     {
         private int raceCarNumber;
 
@@ -19,11 +19,7 @@ namespace UTestsInvestigation
         {
             if (assignedPilot.GetLicense() == true)
                 return true;
-
-            if (assignedPilot.GetLicense() == false)
-                return false;
-
-            return false;
+            else return false;
         }
     }
 }

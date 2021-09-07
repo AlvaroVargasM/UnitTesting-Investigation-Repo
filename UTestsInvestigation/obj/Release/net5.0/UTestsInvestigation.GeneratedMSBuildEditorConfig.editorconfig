@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = UTestsInvestigation
-build_property.ProjectDir = C:\Users\valva\Source\Repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\
+build_property.ProjectDir = C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation\

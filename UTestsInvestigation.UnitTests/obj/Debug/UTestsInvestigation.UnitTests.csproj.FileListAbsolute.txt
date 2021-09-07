@@ -1,0 +1,17 @@
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\obj\Debug\UTestsInvestigation.UnitTests.csproj.AssemblyReference.cache
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\obj\Debug\UTestsInvestigation.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\UTestsInvestigation.UnitTests.dll
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\UTestsInvestigation.UnitTests.pdb
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\UTestsInvestigation.exe
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\UTestsInvestigation.pdb
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\UTestsInvestigation.exe.config
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\obj\Debug\UTestsInvestigation.UnitTests.csproj.CopyComplete
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\obj\Debug\UTestsInvestigation.UnitTests.dll
+C:\Users\valva\source\repos\AlvaroVargasM\UnitTesting-Investigation-Repo\UTestsInvestigation.UnitTests\obj\Debug\UTestsInvestigation.UnitTests.pdb
