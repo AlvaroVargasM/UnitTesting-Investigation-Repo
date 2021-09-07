@@ -21,5 +21,14 @@ namespace UTestsInvestigation
                 return true;
             else return false;
         }
+
+        public void SetRaceCarNumber(int newRaceCarNumber)
+        {
+            this.raceCarNumber = newRaceCarNumber;
+        }
+        public int GetRaceCarNumber()
+        {
+            return this.raceCarNumber;
+        }
     }
 }

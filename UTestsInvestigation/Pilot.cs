@@ -23,27 +23,22 @@ namespace UTestsInvestigation
         {
             this.license = newLicenseState;
         }
-
         public bool GetLicense()
         {
             return this.license;
         }
-
         public void SetFirstName(string newFirstName)
         {
             this.firstName = newFirstName;
         }
-
         public string GetFirstName()
         {
             return this.firstName;
         }
-
         public void SetLastName(string newLastName)
         {
             this.lastName = newLastName;
         }
-
         public string GetLastName()
         {
             return this.lastName;
