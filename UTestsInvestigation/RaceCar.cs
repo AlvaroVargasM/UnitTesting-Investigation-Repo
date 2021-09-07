@@ -8,32 +8,22 @@ namespace UTestsInvestigation
 {
     class RaceCar
     {
-        private Pilot currentPilot;
         private int raceCarNumber;
 
-        public RaceCar(Pilot assignedPilot, int raceCarNumber)
+        public RaceCar(int raceCarNumber)
         {
-            this.currentPilot = assignedPilot;
             this.raceCarNumber = raceCarNumber;
         }
 
-        public bool CanRace()
+        public bool CanRace(Pilot assignedPilot)
         {
-            if (this.currentPilot.GetLicenseState() == true)
-            {
+            if (assignedPilot.GetLicense() == true)
                 return true;
-            }
-            else return false;
-        }
 
-        public void SetCurrentPilot(Pilot newPilot)
-        {
-            this.currentPilot = newPilot;
-        }
+            if (assignedPilot.GetLicense() == false)
+                return false;
 
-        public Pilot GetCurrentPilot()
-        {
-            return this.currentPilot;
+            return false;
         }
     }
 }

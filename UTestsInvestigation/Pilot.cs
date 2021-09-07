@@ -10,23 +10,23 @@ namespace UTestsInvestigation
     {
         private string firstName;
         private string lastName;
-        private bool licenseState;
+        private bool license;
 
         public Pilot(string firstName, string lastName)
         {
             this.firstName = firstName;
             this.lastName = lastName;
-            this.licenseState = true;
+            this.license = true;
         }
 
-        public void SetLicenseState(bool newLicenseState)
+        public void SetLicense(bool newLicenseState)
         {
-            this.licenseState = newLicenseState;
+            this.license = newLicenseState;
         }
 
-        public bool GetLicenseState()
+        public bool GetLicense()
         {
-            return this.licenseState;
+            return this.license;
         }
 
         public void SetFirstName(string newFirstName)

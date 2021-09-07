@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valva\\OneDrive\\Documents\\GitHub\\UnitTesting-Investigation-Repo\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\UTestsInvestigation.csproj": {}
+    "C:\\Users\\valva\\source\\repos\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\UTestsInvestigation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valva\\OneDrive\\Documents\\GitHub\\UnitTesting-Investigation-Repo\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\UTestsInvestigation.csproj": {
+    "C:\\Users\\valva\\source\\repos\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\UTestsInvestigation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valva\\OneDrive\\Documents\\GitHub\\UnitTesting-Investigation-Repo\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\UTestsInvestigation.csproj",
+        "projectUniqueName": "C:\\Users\\valva\\source\\repos\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\UTestsInvestigation.csproj",
         "projectName": "UTestsInvestigation",
-        "projectPath": "C:\\Users\\valva\\OneDrive\\Documents\\GitHub\\UnitTesting-Investigation-Repo\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\UTestsInvestigation.csproj",
+        "projectPath": "C:\\Users\\valva\\source\\repos\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\UTestsInvestigation.csproj",
         "packagesPath": "C:\\Users\\valva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valva\\OneDrive\\Documents\\GitHub\\UnitTesting-Investigation-Repo\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\obj\\",
+        "outputPath": "C:\\Users\\valva\\source\\repos\\AlvaroVargasM\\UnitTesting-Investigation-Repo\\UTestsInvestigation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valva\\AppData\\Roaming\\NuGet\\NuGet.Config",
