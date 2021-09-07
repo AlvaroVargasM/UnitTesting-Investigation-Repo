@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\valva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\valva\\.nuget\\packages"
+    ]
+  }
+}
