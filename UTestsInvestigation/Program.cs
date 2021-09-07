@@ -6,9 +6,9 @@ namespace UTestsInvestigation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Pilot p1 = new Pilot("Alvaro","Vargas");
-            // p1.SetLicenseState(false);
+            Pilot p1 = new Pilot("Alvaro","Vargas",true);
+            //p1.SetLicense(false);
+            
             RaceCar rc1 = new RaceCar(88); 
 
             if (rc1.CanRace(p1) == true)

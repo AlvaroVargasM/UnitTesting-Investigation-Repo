@@ -12,11 +12,11 @@ namespace UTestsInvestigation
         private string lastName;
         private bool license;
 
-        public Pilot(string firstName, string lastName)
+        public Pilot(string firstName, string lastName, bool license)
         {
             this.firstName = firstName;
             this.lastName = lastName;
-            this.license = true;
+            this.license = license;
         }
 
         public void SetLicense(bool newLicenseState)
